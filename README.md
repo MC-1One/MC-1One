@@ -1,1 +1,5 @@
-![MC-1One's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
+![MC-1One's GitHub stats](https://github-readme-stats.vercel.app/api?username=MC-1One&show_icons=true&theme=tokyonight)
+![Learning Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-1One&layout=compact&theme=tokyonight)
+![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
