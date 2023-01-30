@@ -16,3 +16,11 @@
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
 </p>
 </details>
+[2023-01-30 19:57:31] 
+
+### CMD常用命令 
+* e: 进入E盘
+* mkdir 在当前目录创建多级目录 只能创建文件夹
+* type nul>1.txt 在当前目录添加txt空文件, 可自定义后缀名
+* pushd 堆栈底部 popd从上面蹦出来 形象 使用失败
+* 

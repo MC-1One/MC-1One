@@ -34,7 +34,7 @@
 ![](https://aleen42.github.io/badges/src/premiere.svg)
 ![](https://aleen42.github.io/badges/src/after_effects.svg)
 
-<html>
+<!-- <html>
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
 <td>
@@ -45,7 +45,7 @@
 <td>
 </td>
 </table>
-</html>
+</html> -->
 
 
 
@@ -57,9 +57,8 @@
 ## Fun
 
 <!-- 贪吃蛇研究一下 -->
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
+
+![snake animation](https://github.com/MC-1One/MC-1One/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=MC-1One&theme=github"/>
