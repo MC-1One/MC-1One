@@ -1,7 +1,7 @@
 ## Languages
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-1One&layout=compact&theme=tokyonight)
-[![.github/workflows/snake.yml](https://github.com/MC-1One/MC-1One/actions/workflows/snake.yml/badge.svg?branch=main)](https://github.com/MC-1One/MC-1One/actions/workflows/snake.yml)
+
 
 ![](https://img.shields.io/badge/-java-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/-Javascript-orange?style=for-the-badge)
