@@ -1,9 +1,8 @@
+name: Snake
 on:
   workflow_dispatch:
 jobs:
   job1:
-    runs-on: ubuntu-latest
-    # Map a step output to a job output
     steps:
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v1.1.4
