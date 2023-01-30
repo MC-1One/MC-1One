@@ -1,15 +1,29 @@
-name: Snake
+
+name: CI
+
 on:
+  schedule:
+    - cron: "* */12 * * *"
   workflow_dispatch:
+
 jobs:
-  job1:
+  build:
+    runs-on: ubuntu-latest
+
     steps:
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v1.1.4
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
         with:
-    # github user name
-         github_user_name: MC-1One
-    # path of the generated gif file. If left empty, the gif file will not be generated.
-         gif_out_path: MC-1One/MC-1One/dist
-    # path of the generated svg file. If left empty, the svg file will not be generated.
-         svg_out_path: MC-1One/MC-1One/dist
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: ./dist/github-contribution-grid-snake.gif
+          svg_out_path: ./dist/github-contribution-grid-snake.svg
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
