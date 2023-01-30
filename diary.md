@@ -23,4 +23,44 @@
 * mkdir 在当前目录创建多级目录 只能创建文件夹
 * type nul>1.txt 在当前目录添加txt空文件, 可自定义后缀名
 * pushd 堆栈底部 popd从上面蹦出来 形象 使用失败
-* 
+
+
+[2023-01-31 02:37:28]
+
+<details><summary> Github Action 错误403 权限错误搞不懂 搞了一天还是搞不出来 索性手动操作了</summary>
+<p align= "center">
+
+```
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+      
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: ./assets/github-contribution-grid-snake.gif
+          svg_out_path: ./assets/github-contribution-grid-snake.svg
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
+```
+</p>
+</details>
