@@ -87,7 +87,7 @@
 
 ## Fun
 
-<div align="center" display+"none">
+<div align="center" display="none">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=MC-1One&theme=github"/>
 </div>
 
