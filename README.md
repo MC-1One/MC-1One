@@ -1,12 +1,44 @@
+<!-- 贪吃蛇研究成功-->
+![snake animation](https://github.com/MC-1One/MC-1One/blob/main/assets/github-contribution-grid-snake.svg)
+
 ## Languages
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-1One&layout=compact&theme=tokyonight)
 
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=lua&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=jquery&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=cplusplus&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=json&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=RegularExpression&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=markdown&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 
-![](https://img.shields.io/badge/-java-orange?style=for-the-badge)
+## Utils
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=visualstudio&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=VisualStudioCode&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=adobe&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=jupyter&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pycharm&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=intellijidea&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=notepad+&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=ticktick+&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=ditto+&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftword&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftpowerpoint&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftonenote&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=win11&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
+
+<!-- ![](https://img.shields.io/badge/-java-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/-Javascript-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/-lua-orange?style=for-the-badge)
-![](https://img.shields.io/badge/python-orange?style=for-the-badge)
+![](https://img.shields.io/badge/python-orange?style=for-the-badge) -->
 
 ## Info
 
@@ -48,18 +80,12 @@
 </table>
 </html> -->
 
-
-
 ## Status
 ![](https://stats.justsong.cn/api/zhihu?username=kg1one)
 ![](https://stats.justsong.cn/api/bilibili/?id=204453593)
 ![](https://stats.justsong.cn/api/csdn?id=m0_63042638)
 
 ## Fun
-
-<!-- 贪吃蛇研究一下 -->
-
-![snake animation](https://github.com/MC-1One/MC-1One/blob/main/assets/github-contribution-grid-snake.svg)
 
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=MC-1One&theme=github"/>
