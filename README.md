@@ -87,9 +87,9 @@
 
 ## Fun
 
-<div align="center" display="none">
+<!-- <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=MC-1One&theme=github"/>
-</div>
+</div> -->
 
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/MC-1One?template=classic&config.timezone=Asia%2FShanghai"/>
