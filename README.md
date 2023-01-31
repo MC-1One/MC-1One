@@ -59,7 +59,7 @@
 
 <!-- 贪吃蛇研究一下 -->
 
-![snake animation](https://github.com/MC-1One/MC-1One/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](assets\github-contribution-grid-snake.gif)
 
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=MC-1One&theme=github"/>
