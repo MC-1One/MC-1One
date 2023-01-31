@@ -2,7 +2,7 @@
 
 name: Generate Snake
 
-permissions: write-all
+permissions: read-all|write-all
 
 on:
   schedule:
