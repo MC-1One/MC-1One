@@ -3,6 +3,7 @@
 <!-- 贪吃蛇研究成功-->
 ![snake animation](https://github.com/MC-1One/MC-1One/blob/main/assets/github-contribution-grid-snake.svg)
 
+
 ## Languages
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-1One&layout=compact&theme=tokyonight)
@@ -21,6 +22,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=markdown&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 
+
 ## Utils
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=visualstudio&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=VisualStudioCode&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
@@ -35,6 +37,13 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftpowerpoint&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftonenote&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=win11&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sublimetext&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linux&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=ubuntu&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
+
+## Framework
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=hexo&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 
 
 <!-- ![](https://img.shields.io/badge/-java-orange?style=for-the-badge)
