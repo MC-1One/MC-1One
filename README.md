@@ -3,6 +3,7 @@
 <center>
 # Stay hungry. Stay foolish.
 </center>
+
 <!-- 贪吃蛇研究成功-->
 ![snake animation](https://github.com/MC-1One/MC-1One/blob/main/assets/github-contribution-grid-snake.svg)
 
