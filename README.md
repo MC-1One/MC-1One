@@ -2,21 +2,6 @@
 
 # Stay hungry. Stay foolish.
 
-<style>
-  .word{
-    width: 100px;
-    height: 30px;
-    background: #E5E5E5;
-    text-align: center;
-    line-height: 30px;
-    font-size: 14px;
-    }
-</style>
-
-<div class="word">
-    <p>优秀</p>
-</div>
-
 <!-- 贪吃蛇研究成功-->
 ![snake animation](https://github.com/MC-1One/MC-1One/blob/main/assets/github-contribution-grid-snake.svg)
 
