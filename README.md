@@ -57,8 +57,8 @@
 
 ## Info
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MC-1One&count_private=true&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MC-1One)
+![Stats](https://github-readme-stats.vercel.app/api?username=MC-1One&count_private=true&show_icons=true&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MC-1One&theme=codestackr&hide_border=true)](https://git.io/streak-stats)
 
 [![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MC-1One&theme=react)](https://github.com/MC-1One/github-readme-activity-graph)
 
