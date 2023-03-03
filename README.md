@@ -1,3 +1,7 @@
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MC-1One&repo=Code)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MC-1One&repo=Settings)](https://github.com/anuraghazra/github-readme-stats)
+
 [Code](https://github.com/MC-1One/Code) [Setting](https://github.com/MC-1One/Settings) [BaiduInpurSkin](https://github.com/MC-1One/BaiduInputSkinEditing) [Blog](https://github.com/MC-1One/MC-1One.github.io) [Profile](https://github.com/MC-1One/MC-1One)
 
 # Stay hungry. Stay foolish.
@@ -8,7 +12,9 @@
 
 ## Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-1One&layout=compact&theme=tokyonight)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-1One&layout=compact&theme=tokyonight&count_private=true)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-1One&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
