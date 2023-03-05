@@ -96,9 +96,9 @@
 </html> -->
 
 ## Status
-![](https://stats.justsong.cn/api/zhihu?username=kg1one)
-![](https://stats.justsong.cn/api/bilibili/?id=204453593)
-![](https://stats.justsong.cn/api/csdn?id=m0_63042638)
+![](https://stats.justsong.cn/api/zhihu?username=kg1one&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=204453593&theme=dark)
+![](https://stats.justsong.cn/api/csdn?id=m0_63042638&theme=dark)
 
 ## Fun
 
